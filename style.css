@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 250;
+  padding: 200;
+}
+
+header {
+  background-color: lightskyblue;
+  text-align: center;
+  padding: 2rem;
+}
+
+header h1 {
+  margin: 0;
+  color: darkblue;
+}
+
+.menu {
+  padding: 2rem;
+  text-align: center;
+}
+
+.item {
+  margin-bottom: 2rem;
+}
+
+.item img {
+  max-width: 100%;
+}
+
+footer {
+  text-align: center;
+  background-color: lightseagreen;
+  color: white;
+  padding: 1rem;
+}
